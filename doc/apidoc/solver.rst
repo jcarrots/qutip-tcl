@@ -118,6 +118,9 @@ Non-Markovian Solvers
 .. automodule:: qutip.solver.nonmarkov.transfertensor
     :members: ttmsolve
 
+.. automodule:: qutip.solver.nonmarkov.tcl4
+    :members: tcl4solve, tcl4_liouvillian
+
 
 .. _api-ode:
 
